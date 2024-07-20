@@ -1,5 +1,4 @@
 print('Hola mundo')
 a = int(input('Insertar Variable:'))
 b = int(input('Insertar valor:'))
-d = int(input('Insertar valor:'))
-c = print((a*b)+d)
+c = print((a*b))
