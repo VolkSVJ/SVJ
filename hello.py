@@ -1,4 +1,5 @@
 print('Hola mundo')
 a = int(input('Insertar Variable:'))
+k = float(input('Inserte Valor con punto'))
 b = int(input('Insertar valor:'))
-c = print((a*b))
+c = print((a*b)+k)
