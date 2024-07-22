@@ -1,5 +1,3 @@
-print('Hola mundo')
-a = int(input('Insertar Variable:'))
-k = float(input('Inserte Valor con punto'))
-b = int(input('Insertar valor:'))
-c = print((a*b)+k)
+for i in [5, 4, 3, 2, 1]:
+    print(i)
+print('Boom')
